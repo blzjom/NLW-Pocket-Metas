@@ -59,3 +59,7 @@ Operador de contatenação
 # Estrutura de repetição 
 
 - [x] While
+
+# Condicionais
+
+- [x] Switch
