@@ -63,3 +63,8 @@ Operador de contatenação
 # Condicionais
 
 - [x] Switch
+
+# Módulos em Node.js
+
+- [x] Importação de módulos (require, CommonJs)
+Biblioteca 'inquirer' parar criar prompts interativos
