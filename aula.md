@@ -35,8 +35,9 @@ Apresentar os dados
 
 ## Operadores 
 
-Operadores de atribuição de valor
-Operador de contatenação
+Operadores de atribuição de valor =
+Operador de contatenação +
+Operadores de comparação == != <= => < >
 
 ## Estruturas de dados!
 
@@ -63,8 +64,13 @@ Operador de contatenação
 # Condicionais
 
 - [x] Switch
+ [x] if/else
 
 # Módulos em Node.js
 
 - [x] Importação de módulos (require, CommonJs)
 Biblioteca 'inquirer' parar criar prompts interativos
+
+## Programação Assíncrona e Promisess
+
+- [x] Uso de funções assíncrona (async/await)
