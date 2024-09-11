@@ -4,7 +4,7 @@ let meta = {
     value: "Tomar 3L de água por dia",
     checked: false,
 }
-let metas = [ metas ]
+let metas = [ meta ]
 
 const cadastrarMeta = async () => {
     const meta = await input({ message: "Digite a meta:"})
